@@ -1,2 +1,2 @@
 # JOKENPO
-Um joguinho com python.
+Um joguinho do JOKENPO em python.
